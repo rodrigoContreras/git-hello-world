@@ -1,0 +1,5 @@
+NOTAS CURSO PYTHON UDEMY
++++++++++++++++++++++++++
+
+* variables y operadores
+--------------------------
