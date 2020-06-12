@@ -7,5 +7,12 @@ f = a + b
 e = c + a
 
 print (d)
+print (d)
 print (f)
+print (e)
+print (e)
+print (e)
+print (e)
+print (e)
+print (e)
 print (e)
